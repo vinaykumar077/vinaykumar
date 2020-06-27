@@ -1,0 +1,178 @@
+body {
+background:linear-gradient(to right, black 0%, black 25%,silver 25%,silver 100%);
+padding-bottom:5%;
+background-repeat: no-repeat;
+  font-family: Cabin;
+}.container{
+  max-width: auto;
+  width: auto;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+.hello{
+  margin-left:60%;
+  font-size: 40px;
+  color:black;
+  font-family: cursive;
+    margin-bottom:-2%;
+}.designation{
+    margin-left:52%;
+    font-size: 30px;
+    color:#595959;
+    margin-bottom: -1%;
+font-family: sans-serif;
+}.moto{
+  margin-left:46%;
+  font-size: 30px;
+  color:#333333;
+  margin-top: 5px;
+color:#333333;
+    margin-bottom: -20px;
+}.name p{
+  margin-top:3%;
+  margin-left: 3%;
+  font-size: 50px;
+  color:white;
+  text-decoration: none;
+  position: fixed;
+}.designation1{
+  margin-top:5%;
+  margin-left:3%;
+  font-size: 30px;
+  color:silver;
+  position: fixed;
+}
+.home a{
+  margin-top:10%;
+  margin-left:5%;
+  font-size: 30px;
+  color:silver;
+  text-decoration: none;
+position: fixed;
+}
+.home a:hover{
+opacity: 0.7
+}
+.profile li {
+  margin-top:15%;
+    margin-left:6%;
+    font-size:30px;
+    color:white;
+      position: fixed;
+}.profile a{
+  color: white;
+  text-decoration: none;
+}
+.profile a:hover{
+  opacity:0.7
+}
+.moto1{
+  margin-left:28%;
+  font-size: 20px;
+  color:black;
+  margin-top:-8%;
+}.moto1 p{
+  line-height: 0.9cm;
+  margin-right:4%;
+  text-align:justify;
+}.skills{
+  margin-left:28%;
+  margin-right: 4%;
+  margin-top:8%;
+  background:linear-gradient(to right,black, silver);
+color:white;
+font-size: 20px;
+line-height: 2cm
+}.skills p{
+  font-size: 30px;
+  margin-left:2%;
+}
+.skills1 {
+  margin-left: 28%;
+  margin-right: 4%;
+  margin-top:5%;
+color:white;
+font-size: 20px;
+}
+.skills1 p{
+  line-height: 1cm;
+    background:linear-gradient(to right,black, silver);
+      padding-left:2%;
+}.Certificate{
+  margin-left:28%;
+  margin-top:10%;
+  background:linear-gradient(to right,black, silver);
+    margin-right: 4%;
+color:white;
+font-size: 20px;
+line-height: 2cm
+}.Certificate p{
+  font-size: 30px;
+  margin-left:2%;
+}.links{
+  margin-left: 28%;
+  margin-top:4%;
+    margin-right: 4%;
+color:black;
+}.links a{
+  font-size: 25px;
+  color:#333333;
+  line-height: 1.1cm;
+}.projects{
+  margin-left:28%;
+  margin-right: 4%;
+  margin-top:4%;
+  background:linear-gradient(to right,black, silver);
+color:white;
+font-size: 20px;
+line-height: 2cm
+}.projects p{
+  font-size: 30px;
+  margin-left: 2%;
+}.projects1{
+  margin-left:28%;
+    margin-right: 4%;
+  margin-top:4%;
+}
+.projects1 li{
+  font-size: 25px;
+}.intern{
+  margin-left:28%;
+    margin-right: 4%;
+  margin-top:4%;
+  background:linear-gradient(to right,black, silver);
+color:white;
+font-size: 20px;
+line-height: 2cm
+}.intern p{
+  font-size: 30px;
+  margin-left:2%;
+}.intern1{
+  margin-left:28%;
+    margin-right: 4%;
+  margin-top:4%;
+}.intern1 a{
+  font-size: 25px;
+  color:#333333
+}.activities{
+  margin-left:28%;
+    margin-right: 4%;
+  margin-top:4%;
+  background:linear-gradient(to right,black, silver);
+color:white;
+font-size: 20px;
+line-height: 2cm
+}.activities p{
+  font-size: 30px;
+  margin-left:2%;
+  font-size: 30px
+}.activity1{
+  margin-left:28%;
+    margin-right: 4%;
+  margin-top:4%;
+}.activity1 li{
+  font-size: 25px;
+  line-height: 1cm;
+}
